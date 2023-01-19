@@ -1,0 +1,218 @@
+2023-01-18 18:18:05,565 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-01-18 18:19:17,328 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-01-18 19:45:14,815 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mballem.curso.boot:demo-mvc:0.0.1-SNAPSHOT @ C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\pom.xml.
+2023-01-18 19:45:18,400 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/3.0.1/spring-boot-starter-thymeleaf-3.0.1.pom
+2023-01-18 19:45:18,695 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/3.0.1/spring-boot-starter-thymeleaf-3.0.1.pom
+2023-01-18 19:45:18,868 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring6/3.1.1.RELEASE/thymeleaf-spring6-3.1.1.RELEASE.pom
+2023-01-18 19:45:19,063 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring6/3.1.1.RELEASE/thymeleaf-spring6-3.1.1.RELEASE.pom
+2023-01-18 19:45:19,219 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-lib/3.1.1.RELEASE/thymeleaf-lib-3.1.1.RELEASE.pom
+2023-01-18 19:45:19,436 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-lib/3.1.1.RELEASE/thymeleaf-lib-3.1.1.RELEASE.pom
+2023-01-18 19:45:19,591 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-parent/3.1.1.RELEASE/thymeleaf-parent-3.1.1.RELEASE.pom
+2023-01-18 19:45:19,833 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-parent/3.1.1.RELEASE/thymeleaf-parent-3.1.1.RELEASE.pom
+2023-01-18 19:45:20,045 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.1.1.RELEASE/thymeleaf-3.1.1.RELEASE.pom
+2023-01-18 19:45:20,249 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.1.1.RELEASE/thymeleaf-3.1.1.RELEASE.pom
+2023-01-18 19:45:20,413 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE.pom
+2023-01-18 19:45:20,616 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE.pom
+2023-01-18 19:45:20,782 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE.pom
+2023-01-18 19:45:21,037 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE.pom
+2023-01-18 19:45:22,022 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.1/spring-boot-devtools-3.0.1.pom
+2023-01-18 19:45:22,212 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.1/spring-boot-devtools-3.0.1.pom
+2023-01-18 19:45:23,452 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring6/3.1.1.RELEASE/thymeleaf-spring6-3.1.1.RELEASE.jar
+2023-01-18 19:45:23,617 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/3.0.1/spring-boot-starter-thymeleaf-3.0.1.jar
+2023-01-18 19:45:23,617 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE.jar
+2023-01-18 19:45:23,617 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE.jar
+2023-01-18 19:45:23,617 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.1.1.RELEASE/thymeleaf-3.1.1.RELEASE.jar
+2023-01-18 19:45:24,165 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/3.0.1/spring-boot-starter-thymeleaf-3.0.1.jar
+2023-01-18 19:45:24,326 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.1/spring-boot-devtools-3.0.1.jar
+2023-01-18 19:45:24,383 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring6/3.1.1.RELEASE/thymeleaf-spring6-3.1.1.RELEASE.jar
+2023-01-18 19:45:24,402 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE.jar
+2023-01-18 19:45:24,419 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE.jar
+2023-01-18 19:45:24,550 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.1.1.RELEASE/thymeleaf-3.1.1.RELEASE.jar
+2023-01-18 19:45:24,732 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.1/spring-boot-devtools-3.0.1.jar
+2023-01-18 19:45:30,938 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo-mvc/src/main/java
+2023-01-18 19:45:30,939 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo-mvc/src/main/resources
+2023-01-18 19:45:30,953 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo-mvc/src/main/resources
+2023-01-18 19:45:30,968 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo-mvc/src/test/java
+2023-01-18 19:45:31,801 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/3.0.1/spring-boot-starter-thymeleaf-3.0.1-sources.jar
+2023-01-18 19:45:32,199 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-thymeleaf/3.0.1/spring-boot-starter-thymeleaf-3.0.1-sources.jar
+2023-01-18 19:45:32,206 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-thymeleaf:3.0.1
+2023-01-18 19:45:32,786 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring6/3.1.1.RELEASE/thymeleaf-spring6-3.1.1.RELEASE-sources.jar
+2023-01-18 19:45:33,286 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf-spring6/3.1.1.RELEASE/thymeleaf-spring6-3.1.1.RELEASE-sources.jar
+2023-01-18 19:45:33,294 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.thymeleaf:thymeleaf-spring6:3.1.1.RELEASE
+2023-01-18 19:45:33,876 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.1.1.RELEASE/thymeleaf-3.1.1.RELEASE-sources.jar
+2023-01-18 19:45:34,821 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/thymeleaf/thymeleaf/3.1.1.RELEASE/thymeleaf-3.1.1.RELEASE-sources.jar
+2023-01-18 19:45:34,828 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.thymeleaf:thymeleaf:3.1.1.RELEASE
+2023-01-18 19:45:35,460 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE-sources.jar
+2023-01-18 19:45:35,964 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/attoparser/attoparser/2.0.6.RELEASE/attoparser-2.0.6.RELEASE-sources.jar
+2023-01-18 19:45:35,970 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.attoparser:attoparser:2.0.6.RELEASE
+2023-01-18 19:45:36,540 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE-sources.jar
+2023-01-18 19:45:37,031 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/unbescape/unbescape/1.1.6.RELEASE/unbescape-1.1.6.RELEASE-sources.jar
+2023-01-18 19:45:37,037 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.unbescape:unbescape:1.1.6.RELEASE
+2023-01-18 19:45:37,633 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.1/spring-boot-devtools-3.0.1-sources.jar
+2023-01-18 19:45:38,117 [Worker-9: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-devtools/3.0.1/spring-boot-devtools-3.0.1-sources.jar
+2023-01-18 19:45:38,126 [Worker-9: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-devtools:3.0.1
+2023-01-18 19:45:40,607 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 36 sec
+2023-01-18 19:45:40,619 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-01-18 19:45:41,721 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mballem.curso.boot:demo-mvc:0.0.1-SNAPSHOT @ C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\pom.xml.
+2023-01-18 19:45:43,102 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo-mvc/src/main/java
+2023-01-18 19:45:43,103 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo-mvc/src/main/resources
+2023-01-18 19:45:43,105 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo-mvc/src/main/resources
+2023-01-18 19:45:43,107 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo-mvc/src/test/java
+2023-01-18 19:45:45,263 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2023-01-18 19:45:47,829 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 19:45:47,870 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 19:45:47,878 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 20:06:16,548 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 20:06:16,563 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 7 resources
+2023-01-18 20:06:16,607 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 20:13:49,048 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 20:13:49,050 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2023-01-18 20:13:49,076 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 20:31:37,010 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:31:37,273 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-18 20:31:37,311 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 20:38:12,709 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:38:13,332 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-18 20:38:13,380 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 20:43:25,085 [Worker-23: Launching demo-mvc - DemoMvcApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:43:25,125 [Worker-23: Launching demo-mvc - DemoMvcApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-18 20:43:25,143 [Worker-23: Launching demo-mvc - DemoMvcApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 20:47:26,681 [Worker-28: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mballem.curso.boot:demo-mvc:0.0.1-SNAPSHOT @ C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\pom.xml.
+2023-01-18 20:47:29,110 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 20:47:29,111 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 20:47:29,119 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 20:47:30,410 [Worker-25: Launching demo-mvc - DemoMvcApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 20:47:30,456 [Worker-25: Launching demo-mvc - DemoMvcApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-18 20:47:30,572 [Worker-25: Launching demo-mvc - DemoMvcApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 21:13:02,327 [Worker-34: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mballem.curso.boot:demo-mvc:0.0.1-SNAPSHOT @ C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\pom.xml.
+2023-01-18 21:13:03,581 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:13:03,582 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:13:03,592 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 21:13:05,300 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/npm/jquery/3.1.1/jquery-3.1.1-sources.jar
+2023-01-18 21:13:05,686 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/npm/jquery/3.1.1/jquery-3.1.1-sources.jar
+2023-01-18 21:13:05,692 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars.npm:jquery:3.1.1
+2023-01-18 21:13:06,341 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/npm/github-com-transferwise-bootstrap/5.0.6/github-com-transferwise-bootstrap-5.0.6-sources.jar
+2023-01-18 21:13:06,798 [Worker-39: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/npm/github-com-transferwise-bootstrap/5.0.6/github-com-transferwise-bootstrap-5.0.6-sources.jar
+2023-01-18 21:13:06,814 [Worker-39: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars.npm:github-com-transferwise-bootstrap:5.0.6
+2023-01-18 21:13:10,147 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 21:13:10,410 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-18 21:13:10,692 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 21:17:58,833 [Worker-43: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mballem.curso.boot:demo-mvc:0.0.1-SNAPSHOT @ C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\pom.xml.
+2023-01-18 21:18:00,862 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:18:00,863 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:18:00,904 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 21:18:01,930 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bowergithub/iconic/open-iconic/1.1.1/open-iconic-1.1.1-sources.jar
+2023-01-18 21:18:02,257 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bowergithub/iconic/open-iconic/1.1.1/open-iconic-1.1.1-sources.jar
+2023-01-18 21:18:02,264 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars.bowergithub.iconic:open-iconic:1.1.1
+2023-01-18 21:18:02,933 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/npm/jquery-mask-plugin/1.14.16/jquery-mask-plugin-1.14.16-sources.jar
+2023-01-18 21:18:03,274 [Worker-41: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/npm/jquery-mask-plugin/1.14.16/jquery-mask-plugin-1.14.16-sources.jar
+2023-01-18 21:18:03,279 [Worker-41: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars.npm:jquery-mask-plugin:1.14.16
+2023-01-18 21:18:04,208 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 21:18:04,274 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-18 21:18:04,329 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 21:31:48,236 [Worker-49: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mballem.curso.boot:demo-mvc:0.0.1-SNAPSHOT @ C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\pom.xml.
+2023-01-18 21:31:48,554 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.webjars:jquery:jar:3.3.1.1 is missing, no dependency information available
+2023-01-18 21:31:49,768 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:31:49,769 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:31:49,778 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 21:31:51,287 [Worker-53: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bootstrap/4.0.0/bootstrap-4.0.0-sources.jar
+2023-01-18 21:31:51,626 [Worker-53: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bootstrap/4.0.0/bootstrap-4.0.0-sources.jar
+2023-01-18 21:31:51,632 [Worker-53: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:bootstrap:4.0.0
+2023-01-18 21:31:52,244 [Worker-53: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/npm/popper.js/1.11.1/popper.js-1.11.1-sources.jar
+2023-01-18 21:31:52,607 [Worker-53: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/npm/popper.js/1.11.1/popper.js-1.11.1-sources.jar
+2023-01-18 21:31:52,612 [Worker-53: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars.npm:popper.js:1.11.1
+2023-01-18 21:31:53,185 [Worker-53: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bower/open-iconic/1.1.1/open-iconic-1.1.1-sources.jar
+2023-01-18 21:31:53,620 [Worker-53: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bower/open-iconic/1.1.1/open-iconic-1.1.1-sources.jar
+2023-01-18 21:31:53,626 [Worker-53: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars.bower:open-iconic:1.1.1
+2023-01-18 21:31:54,282 [Worker-53: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/3.3.1.1/jquery-3.3.1.1-sources.jar
+2023-01-18 21:31:54,413 [Worker-53: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for org.webjars:jquery:3.3.1.1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:jquery:jar:sources:3.3.1.1
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:608)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:219)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:577)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:562)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:270)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2023-01-18 21:31:55,047 [Worker-53: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/bower/jquery-mask-plugin/1.14.13/jquery-mask-plugin-1.14.13-sources.jar
+2023-01-18 21:31:55,418 [Worker-53: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/bower/jquery-mask-plugin/1.14.13/jquery-mask-plugin-1.14.13-sources.jar
+2023-01-18 21:31:55,423 [Worker-53: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars.bower:jquery-mask-plugin:1.14.13
+2023-01-18 21:31:55,980 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:31:55,981 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:31:55,986 [Worker-54: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 21:34:56,186 [Worker-50: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mballem.curso.boot:demo-mvc:0.0.1-SNAPSHOT @ C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\pom.xml.
+2023-01-18 21:34:57,300 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:34:57,301 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:34:57,304 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 21:34:58,753 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/3.0.0/jquery-3.0.0-sources.jar
+2023-01-18 21:34:59,070 [Worker-38: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/3.0.0/jquery-3.0.0-sources.jar
+2023-01-18 21:34:59,075 [Worker-38: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:jquery:3.0.0
+2023-01-18 21:34:59,890 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 21:34:59,948 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-18 21:35:00,002 [Worker-49: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 21:37:42,259 [Worker-56: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mballem.curso.boot:demo-mvc:0.0.1-SNAPSHOT @ C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\pom.xml.
+2023-01-18 21:37:42,979 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:37:42,979 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:37:42,985 [Worker-56: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 21:37:44,597 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 21:37:44,622 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-18 21:37:44,674 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 21:42:49,005 [Worker-55: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mballem.curso.boot:demo-mvc:0.0.1-SNAPSHOT @ C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\pom.xml.
+2023-01-18 21:42:50,512 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:42:50,514 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:42:50,532 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 21:42:53,269 [Worker-61: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/npm/bootstrap/5.3.0-alpha1/bootstrap-5.3.0-alpha1-sources.jar
+2023-01-18 21:42:53,766 [Worker-61: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/npm/bootstrap/5.3.0-alpha1/bootstrap-5.3.0-alpha1-sources.jar
+2023-01-18 21:42:53,778 [Worker-61: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars.npm:bootstrap:5.3.0-alpha1
+2023-01-18 21:42:54,260 [Worker-62: Launching demo-mvc - DemoMvcApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 21:42:54,313 [Worker-62: Launching demo-mvc - DemoMvcApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-18 21:42:54,362 [Worker-62: Launching demo-mvc - DemoMvcApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 21:42:55,134 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:42:55,135 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:42:55,142 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 21:46:19,964 [Worker-59: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mballem.curso.boot:demo-mvc:0.0.1-SNAPSHOT @ C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\pom.xml.
+2023-01-18 21:46:21,418 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:46:21,418 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:46:21,428 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 21:46:22,630 [Worker-61: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/npm/bootstrap/5.2.1/bootstrap-5.2.1-sources.jar
+2023-01-18 21:46:22,828 [Worker-61: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/npm/bootstrap/5.2.1/bootstrap-5.2.1-sources.jar
+2023-01-18 21:46:22,833 [Worker-61: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars.npm:bootstrap:5.2.1
+2023-01-18 21:46:23,921 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 21:46:23,952 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-18 21:46:24,073 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 21:52:56,924 [Worker-71: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mballem.curso.boot:demo-mvc:0.0.1-SNAPSHOT @ C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\pom.xml.
+2023-01-18 21:52:58,759 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:52:58,760 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:52:58,767 [Worker-71: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 21:53:00,953 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/0.52/webjars-locator-core-0.52-sources.jar
+2023-01-18 21:53:02,580 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/webjars-locator-core/0.52/webjars-locator-core-0.52-sources.jar
+2023-01-18 21:53:02,598 [Worker-59: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:webjars-locator-core:0.52
+2023-01-18 21:53:03,177 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/classgraph/classgraph/4.8.147/classgraph-4.8.147-sources.jar
+2023-01-18 21:53:04,272 [Worker-59: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/classgraph/classgraph/4.8.147/classgraph-4.8.147-sources.jar
+2023-01-18 21:53:04,279 [Worker-59: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.github.classgraph:classgraph:4.8.147
+2023-01-18 21:53:06,737 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 21:53:07,220 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-18 21:53:07,298 [Worker-72: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 21:59:17,283 [Worker-78: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mballem.curso.boot:demo-mvc:0.0.1-SNAPSHOT @ C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\pom.xml.
+2023-01-18 21:59:18,532 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:59:18,533 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 21:59:18,554 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 21:59:20,692 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 21:59:20,754 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-18 21:59:20,819 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 22:03:21,470 [Worker-83: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mballem.curso.boot:demo-mvc:0.0.1-SNAPSHOT @ C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\pom.xml.
+2023-01-18 22:03:22,576 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 22:03:22,577 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-18 22:03:22,584 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-18 22:03:24,510 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-18 22:03:24,542 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
