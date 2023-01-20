@@ -10,8 +10,10 @@
 	<link rel="icon" href="/image/favicon.png" />
 
 	<!-- Bootstrap core CSS -->
-	<link href="/webjars/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
-	<link href="/webjars/open-iconic/font/css/open-iconic-bootstrap.min.css" rel="stylesheet" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.2/popper.min.js"></script>
+<link rel="stylesheet" href="webjars/bootstrap/4.0.0/css/bootstrap.css">
+<script type="text/javascript" src="webjars/jquery/3.3.1/jquery.js"></script>
+<script type="text/javascript" src="webjars/bootstrap/4.0.0/js/bootstrap.js"></script>
 	
 	<!-- Custom styles for this template -->
 	<link href="/css/style.css" rel="stylesheet" />
@@ -191,7 +193,11 @@
 	<script type="text/javascript">
 	    
 		$(function() {
+			<button type="button" class="btn btn-secondary" data-container="body" data-toggle="popover" data-placement="right" data-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus.">
+  Popover on right
+</button>
 			$('[data-toggle="popover"]').popover();
+			
 		});
 		
 		$(document).ready(function(){

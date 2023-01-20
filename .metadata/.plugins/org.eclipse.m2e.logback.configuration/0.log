@@ -216,3 +216,74 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:j
 2023-01-18 22:03:22,584 [Worker-83: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
 2023-01-18 22:03:24,510 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-01-18 22:03:24,542 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-18 22:03:24,631 [Worker-81: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 18:07:31,464 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-19 18:07:31,477 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 18:07:31,496 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 18:11:09,267 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-19 18:11:09,269 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 18:11:09,275 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 20:00:53,744 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 20:00:54,105 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-19 20:00:54,171 [Worker-100: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 20:09:17,477 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 20:09:17,592 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-19 20:09:17,611 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 20:11:55,004 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 20:11:55,436 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-19 20:11:55,459 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 20:12:15,356 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 20:12:15,405 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-19 20:12:15,424 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 20:15:34,738 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 20:15:34,753 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-19 20:15:34,793 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 20:16:21,922 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 20:16:22,112 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-19 20:16:22,128 [Worker-104: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 20:18:10,296 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 20:18:10,327 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-19 20:18:10,342 [Worker-98: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 20:18:58,580 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 20:18:58,718 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-19 20:18:58,743 [Worker-109: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 20:20:28,660 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 20:20:28,953 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-19 20:20:28,970 [Worker-106: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 20:23:00,662 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 20:23:00,678 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-19 20:23:00,692 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 20:26:51,108 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-19 20:26:51,113 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 20:26:51,131 [Worker-110: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 20:34:01,953 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-19 20:34:01,956 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 20:34:01,971 [Worker-102: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 20:36:01,988 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-19 20:36:01,990 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 20:36:02,000 [Worker-117: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 20:38:16,938 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-19 20:38:16,939 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 20:38:16,945 [Worker-119: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 20:41:15,705 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-19 20:41:15,706 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 20:41:15,718 [Worker-116: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 20:44:30,826 [Worker-126: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.mballem.curso.boot:demo-mvc:0.0.1-SNAPSHOT @ C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\pom.xml.
+2023-01-19 20:44:36,208 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-19 20:44:36,209 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 20:44:36,244 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 20:44:36,639 [Worker-127: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/webjars/jquery/3.3.1-1/jquery-3.3.1-1-sources.jar
+2023-01-19 20:44:36,924 [Worker-127: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/webjars/jquery/3.3.1-1/jquery-3.3.1-1-sources.jar
+2023-01-19 20:44:36,932 [Worker-127: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.webjars:jquery:3.3.1-1
+2023-01-19 20:44:38,606 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 20:44:38,640 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 10 resources
+2023-01-19 20:44:38,881 [Worker-127: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 20:54:24,800 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-19 20:54:24,802 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 20:54:24,814 [Worker-126: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 21:02:00,384 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-19 21:02:00,385 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 21:02:00,399 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
+2023-01-19 21:03:42,902 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-19 21:03:42,905 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-19 21:03:42,919 [Worker-143: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\keity\OneDrive\햞ea de Trabalho\SpringBoot Thymeleaf Udemy\demo-mvc\src\test\resources
