@@ -1,0 +1,9 @@
+package com.mballem.curso.boot.domain;
+
+import jakarta.persistence.*;
+
+@Entity
+public class Endereco extends AbstractEntity<Long> {
+
+	
+}

@@ -1,0 +1,44 @@
+package com.mballem.curso.boot.domain;
+
+import java.util.List;
+
+// O * serve para que a gente não erre as anotações na hora do mapeamento;
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.OneToMany;
+import jakarta.persistence.Table;
+
+/**
+ * Como a tabela departamento só possui as colunas Id e Nome, apenas criamos aqui nome
+ * porque o Id já será herdado a partir de AbstractEntity
+ * @author keity
+ *
+ */
+@Entity //Faz com que a entidade seja gerenciada pela JPA 
+@Table (name = "DEPARTAMENTOS")//Atributo name com o nome da tabela do banco de dados "DEPARTAMENTOS";
+public class Departamento extends AbstractEntity<Long>  { //Id dessa classe genérica será herdado como um tipo Long
+	
+	//Quando o nome do atributo e da coluna são idênticos, não é necessário adicionar o atributo name; 
+	@Column (name = "nome", nullable = false, unique = true, length = 60)//Mapeia o atributo name para a coluna do banco de dados
+	private String nome;
+	
+	/**
+	 *Atributo do tipo List para cargos porque departamento terá uma lista de cargos;
+	 *O mappedBy serve para dizer qual atributo está fazendo parte do lado forte da relação e é 
+	 *necessario porque o relacionamento entre departamento e cargo será bidirecional.
+	 *Nesse caso é obrigatório definir qual é o lado fraco da relação, sendo o lado forte aquele
+	 *que contém a FK (cargo) e o lado fraco (departamento).
+	 *
+	 */
+	@OneToMany (mappedBy = "departamento")// Indica que temos muitos cargos para um departamento;
+	private  List<Cargo> cargos;
+
+	public String getNome() {
+		return nome;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+	
+}
